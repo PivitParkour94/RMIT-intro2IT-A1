@@ -11,5 +11,5 @@ My Dad worked for an internationally known IT company my whole childhood so I ca
 *I remember spending way too much time playing this pinball game because someone was using the phone so we couldn't ALSO be on the internet. Good ol' dial up.*
 
 I have been working for an e-commerce agency (www.neocreative.com) for three years doing module development primarily in PHP.
-![<img src="https://mirasvit.com/media/partnership/neocreative-logo-tag.png">](http://www.neocreative.com/)
-![Neocreative Logo](https://mirasvit.com/media/partnership/neocreative-logo-tag.png) 
+[<img src="https://mirasvit.com/media/partnership/neocreative-logo-tag.png">](http://www.neocreative.com/)
+<!-- ![Neocreative Logo](https://mirasvit.com/media/partnership/neocreative-logo-tag.png) -->
