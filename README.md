@@ -13,3 +13,4 @@ My Dad worked for an internationally known IT company my whole childhood so I ca
 I have been working for an e-commerce agency (www.neocreative.com) for three years doing module development primarily in PHP.
 [<img src="https://mirasvit.com/media/partnership/neocreative-logo-tag.png">](http://www.neocreative.com/)
 <!-- ![Neocreative Logo](https://mirasvit.com/media/partnership/neocreative-logo-tag.png) -->
+
