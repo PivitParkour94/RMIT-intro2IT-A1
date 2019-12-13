@@ -14,3 +14,7 @@ I have been working for an e-commerce agency (www.neocreative.com) for three yea
 [<img src="https://mirasvit.com/media/partnership/neocreative-logo-tag.png">](http://www.neocreative.com/)
 <!-- ![Neocreative Logo](https://mirasvit.com/media/partnership/neocreative-logo-tag.png) -->
 
+### Job Listing
+So, being a hacker is very glamorous in movies, but doing illegal things with the risk isn't really something I want to do. Kinda conflicts with my morals. That is where penetration testing comes in. A penetration tester is someone who is referred to as a "white hat" hacker because their job is to test companies cyber security, at their request (this is the key difference), to determine any potential threats/exploits and help the companies to secure against them, before a malicious "black hat" hacker finds them and exploits them.
+
+This job listing looks pretty interesting
