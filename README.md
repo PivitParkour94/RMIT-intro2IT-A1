@@ -27,10 +27,16 @@ This position is appealing to me because it would require me to already have som
 The skills that would be required are:
 - A strong networking understanding
 - Being up to date with common attack vectors and vulnerabilities
+- Ability to write a professional report
+- Understand what "red team engagements" means
+- A good understanding of windows and linux based command line interfaces/programs
 
-<!--
- A description (in your own words) of the position, and particularly what makes this position appealing to you. 
- A description (in your own words) of the skills, qualifications and experience required for the position. 
- A description (in your own words) of the skills, qualifications and experience you currently have. 
- A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway), but try to be as specific as you can.
--->
+The skills I currently have:
+- A very basic understanding of networking
+- The ability to write reports
+- A good understanding of Powershell and Teminal usage and basic (batch, ps1 and bash) script writing
+
+In order to increase my networking skills I have been trying to do CTF challenges (which are sandboxed pen testing challenges available to anyone)
+I will need to familiarise myself with the terms used in the industry, which I imagine would come with talking with someone in the industy, looking at example reports, studying specific cyber security classes and just getting experience in the industry.
+
+### What is my personality like?
