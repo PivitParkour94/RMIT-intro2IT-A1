@@ -7,6 +7,9 @@ A little about me to start. I'm Nathaniel, student ID s3829502, (email: s3829502
 My Dad worked for an internationally known IT company my whole childhood so I cant really remember a time when we weren't using technology, but because it was what my dad did I didn't think it would be cool to also go into that field so I tried art instead in high school. Long story short, I was failing art so I changed to IT and everything just made sense so I succumbed and realised my future would be in IT.
 
 ![Pinball Windows 95](http://www.neoegm.com/wp-content/uploads/2009/08/Pinball_Cracker_Game.png)
+
 *I remember spending way too much time playing this pinball game because someone was using the phone so we couldn't ALSO be on the internet. Good ol' dial up.*
 
-I have been working for an e-commerce agency (www.neocreative.com) for three years doing module development primarily in PHP.![Neocreative Logo](https://mirasvit.com/media/partnership/neocreative-logo-tag.png) 
+I have been working for an e-commerce agency (www.neocreative.com) for three years doing module development primarily in PHP.
+![<img src="https://mirasvit.com/media/partnership/neocreative-logo-tag.png">](http://www.neocreative.com/)
+![Neocreative Logo](https://mirasvit.com/media/partnership/neocreative-logo-tag.png) 
