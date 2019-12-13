@@ -20,6 +20,6 @@ A penetration tester is someone who is referred to as a "white hat" hacker becau
 
 There are plenty of job listings out there for penetration testing, but here is an example.
 [https://www.seek.com.au/job/40557657](https://www.seek.com.au/job/40557657)
-![Job Listing Screenshot](pentesting_job_ad.png)
+![Job Listing Screenshot](./pentesting_job_ad.PNG)
 
 
