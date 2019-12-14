@@ -47,7 +47,6 @@ The learning style result I got was that I am a visual learner
 I chose to take the Big Five Personalities Test to learn more. Turns out my highest quality is in Openness
 ![Big Five Results](./img/big_five_results.png)
 
-<<<<<<< HEAD
 These results mean that you can count on me to try and keep the peace between group members. That's generally at my own expense, but at least we will get the project completed. I'm a big fan of people having separate (not necessarily equal) responsibilities that each member feels is within their ability, so divying up the group work is probably where I will be able to be most useful.
 
 ### My Awesome Untitled Project
@@ -82,7 +81,3 @@ be to find the skills, software and hardware required?
 Outcome (100 words) - If the project is successful, what will be the outcome? How
 will the original problem be solved? What impact will this development have?
  -->
-
-
-
-
