@@ -94,3 +94,5 @@ The containerisation software is free and readily available. Writing the malicio
 
 #### Outcome
 If this project is successful at intercepting network traffic and running sites in an isolated environment it would significantly limit how much data is leaked within companies and how many systems are compromised. I am unaware of other products which do this sort of process isolation and believe this will be a good product for anyone wanting to combat cyber security breaches in the future. Limiting the cyber security attacks effectiveness will overall mean there will be less attacks, or will force the black hat hackers to come up with ways to gain access to the host machine from within the container. In IT there is no such thing as impenetrable security, but ideally this would make breaches easier to detect and therefore protect against.
+
+Thanks for stopping by!
