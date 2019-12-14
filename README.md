@@ -47,3 +47,4 @@ The learning style result I got was that I am a visual learner
 I chose to take the Big Five Personalities Test to learn more. Turns out my highest quality is in Openness
 ![Big Five Results](./img/big_five_results.png)
 
+
