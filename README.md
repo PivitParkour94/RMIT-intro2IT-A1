@@ -40,3 +40,5 @@ In order to increase my networking skills I have been trying to do CTF challenge
 I will need to familiarise myself with the terms used in the industry, which I imagine would come with talking with someone in the industy, looking at example reports, studying specific cyber security classes and just getting experience in the industry.
 
 ### What is my personality like?
+In the [Myers Briggs personality test](https://16personalities.com) the result I got was "[The Mediator](https://www.16personalities.com/infp-personality)" (INFP)
+
