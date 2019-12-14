@@ -58,6 +58,11 @@ These results mean that you can count on me to try and keep the peace between gr
 
 ### My Awesome Untitled Project
 
+*just brainstorming names:*
+- Quarentyne
+- ClosedOff
+- SafeBrowse
+
 #### Overview
 The project that I have come up with is to implement containerised based web page viewing restircting any access to the companies actual files. The idea would be some sort of sandbox environment that employees can use to view emails, websites etc that are potentially malicious without the risk of the companies confidential data being tainted or exposed. This could be expanded to a physical device much like a USB stick that automatically runs the safe container as a layer between the web client and the server.
 
@@ -66,11 +71,16 @@ There has been an uprise in Malware attacks. According to Statistica, there were
 <a href="https://www.statista.com/statistics/873097/malware-attacks-per-year-worldwide/" rel="nofollow"><img src="https://www.statista.com/graphic/1/873097/malware-attacks-per-year-worldwide.jpg" alt="Statistic: Annual number of malware attacks worldwide from 2014 to 2018 (in billions) | Statista" style="width: 100%; height: auto !important; max-width:1000px;-ms-interpolation-mode: bicubic;"/></a><br />Find more statistics at  <a href="https://www.statista.com" rel="nofollow">Statista</a>
 
 #### Description
-The idea for this project is to use containerisation technologies (see [Docker](https://www.docker.com/) for example) to isolate the web browsing experience and avoid getting infected by malware. This tool would need to be used by people with little to no information security knowledge as experienced people in the industry would be able to identify or stop the attacks (generally) before their computers become affected. This could be installed as a sort of safe proxy type network for use in schools, hospitals, enterprise companies or individually for personal computing.
+The idea for this project is to use containerisation technologies (see [Docker](https://www.docker.com/) for example) to isolate the web browsing experience and avoid getting infected by malware. This tool would need to be used by people with little to no information security knowledge as experienced people in the industry would be able to identify or stop the attacks (generally) before their computers become infected. This could be installed as a sort of safe proxy type network for use in schools, hospitals, enterprise companies or individually for personal computing. When a TCP packet comes through to the network, this container would act as a reverse proxy server and return the HTTP request in the container, which could then have some sort of intelligent malicious code detection built in to determine whether the file system is trying to be modified, or accessed suspiciously, etc. This could then flag the site as malicious and have a big warning added to the email or google result or whatever medium the web user is trying to access the site, warning them to proceed with caution. Alternatively it could just remove the access to that site altogether. This would be handy for increasing awareness of cyber attacks in the workplace and decreasing their effectiveness. A systems administrator would then be emailed a report of all the malicious sites that have been detected and work on protecting against those attacks and try to get the malicious sites taken down/block ip addresses or email addresses etc.
 
 #### Tools and Technologies
+The software that will be used for this project would be some sort of containerisation software. Docker with a combination of orchestration software such as docker compose or Kubernetes is well known in the dev-ops industry for the future of web hosting, so using that would probably be easiest. The technical requirements are simply that the processes on the machine won't have access to any actual file system or user that has access to confidential data, which could include writing a back door, logging the keystorkes, etc. All of those vectors would need to be inaccessible to the container. The USB type device would need to interface with all the different operating systems at a low level and intercept all TCP packets to first run them in the quarentined environment.
 
+#### Skills Required
+The containerisation software is free and readily available. Writing the malicious code detection software would probably be the trickiest part of this project as there are so many ways to modify the output so that it doesn't look suspicious (encoding, minification, obfuscation). Looking at the resultant file set, 
 
+#### Outcome
+I am unaware of other products which do this sort of process isolation and believe this will be a good product for anyone wanting to combat cyber security breaches in the future.
 <!--
 Overview (100 words) - This should be a summary of what the project will be.
 Motivation (100) words) - This should be a description of why the project will be
@@ -86,4 +96,5 @@ Skills Required (100 words) - List the skills are required for your project, inc
 software that needs to be written, and special hardware (if any). How feasible will it
 be to find the skills, software and hardware required?
 Outcome (100 words) - If the project is successful, what will be the outcome? How
-will the original problem be solved? What impact will this development have?
+will the original problem be solved? What impact will this development have? 
+-->
