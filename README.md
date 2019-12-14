@@ -85,4 +85,8 @@ software that needs to be written, and special hardware (if any). How feasible w
 be to find the skills, software and hardware required?
 Outcome (100 words) - If the project is successful, what will be the outcome? How
 will the original problem be solved? What impact will this development have?
+<<<<<<< HEAD
  -->
+=======
+ -->
+>>>>>>> b9efc0cbd75e8001c96df3cd6cb94fbd38136f24
