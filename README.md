@@ -1,5 +1,12 @@
 # Nathaniel Rogers - Assignment 1
 
+<style type="text/css">
+a {
+    color: #b5e853;
+    text-shadow: 0 0 5px #b5e853
+}
+</style>
+
 Welcome to my RMIT-intro2IT-A1 intro page!
 
 [Navigator](#)
