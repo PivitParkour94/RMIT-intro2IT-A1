@@ -2,6 +2,11 @@
 
 Welcome to my RMIT-intro2IT-A1 intro page!
 
+[Navigator](#)
+[About Nathaniel](#about-nathaniel)
+[Job Listing](#job-listing)
+
+### About Nathaniel
 A little about me to start. I'm Nathaniel, student ID s3829502, (email: [s3829502@student.rmit.edu.au](mailto:s3829502@student.rmit.edu.au)) 25 living in Queensland, away from home and the dream to be a big grown up living in my own house was a brilliant scam, because life is so much harder as an adult. Apparently there is such thing as too much cake! (I digress) I was born and raised in Australia, moving between Queensland and New South Wales until I took two years to volunteer as a missionary for my church in Scotland and Ireland which now holds a dear place in my heart.
 
 My Dad worked for an internationally known IT company my whole childhood so I cant really remember a time when we weren't using technology, but because it was what my dad did I didn't think it would be cool to also go into that field so I tried art instead in high school. Long story short, I was failing art so I changed to IT and everything just made sense so I succumbed and realised my future would be in IT.
@@ -47,7 +52,6 @@ The learning style result I got was that I am a visual learner
 I chose to take the Big Five Personalities Test to learn more. Turns out my highest quality is in Openness
 ![Big Five Results](./img/big_five_results.png)
 
-<<<<<<< HEAD
 These results mean that you can count on me to try and keep the peace between group members. That's generally at my own expense, but at least we will get the project completed. I'm a big fan of people having separate (not necessarily equal) responsibilities that each member feels is within their ability, so divying up the group work is probably where I will be able to be most useful.
 
 ### My Awesome Untitled Project
@@ -82,7 +86,3 @@ be to find the skills, software and hardware required?
 Outcome (100 words) - If the project is successful, what will be the outcome? How
 will the original problem be solved? What impact will this development have?
  -->
-
-
-
-
